@@ -15,7 +15,7 @@ In UserRepository, declare the following methods that help to find all user and 
 - `data.sql` contains insert statements for dummy users. Find where this file is and explain what it is used for? 
 
 ```
-Your answer
+This file is used to populate the database with initial or dummy data when the Spring Boot application starts, such as inserting 10 sample users to test the system or develop a feature before using the actual data.
 ```
 
 ## User Reservice - Complete the code
